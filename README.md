@@ -1,6 +1,8 @@
-#what up everyone welcome to my git learn
+#welcome to git 
 
--yo Jazer here
+This is coming from 'dev-jazer'
+
+-Jazer here
 -hello everyone
 
  some description
