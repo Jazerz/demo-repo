@@ -1,4 +1,7 @@
-#demo for gitgub learning
+#what up everyone welcome to my git learn
+
+-yo Jazer here
+-hello everyone
 
  some description
  update2
