@@ -2,6 +2,8 @@
 
 This is coming from 'dev-jazer'
 
+-Jazer here
+-hello everyone
 
  some description
  update2
